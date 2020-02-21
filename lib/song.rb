@@ -12,8 +12,9 @@ class Song
   end
 
 def Song.create
-  @@all << S
-
+  song = Song.new 
+  @@all << song
+end 
 
 
 end 
