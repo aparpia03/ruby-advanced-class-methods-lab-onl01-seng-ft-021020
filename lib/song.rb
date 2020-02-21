@@ -71,4 +71,3 @@ def self.create
     self.all.clear
   end
 end
-© 2020 GitHub, Inc.
