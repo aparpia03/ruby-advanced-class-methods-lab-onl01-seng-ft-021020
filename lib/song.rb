@@ -23,7 +23,9 @@ def self.new_by_name(name)
   song 
   end 
   
-def self.create
+def self.create_by_name(name)
+  song = Song.new 
+  
 end   
 
 
